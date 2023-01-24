@@ -1,6 +1,6 @@
 ### About me...
 
-:computer: ::: I'm a data scientist at [Recursion Pharmaceuticals](https://www.recursion.com) in Salt Lake City, UT.
+:computer: ::: I'm a staff research scientist in [Dr. Aaron Quinlan's group](http://quinlanlab.org) at the University of Utah.
 
 :dna: ::: Before that, I studied mutation rate evolution using a variety of statistical methods and DNA sequencing technologies.
 
